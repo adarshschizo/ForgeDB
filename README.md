@@ -87,5 +87,4 @@ Database files created in `data/` are local and ignored by Git.
 
 ## License
 
-No license has been selected for this repository yet. Add a license before publishing if you want to grant others
-permission to use, modify, or redistribute the project.
+ForgeDB is released under the [MIT License](LICENSE).
