@@ -1,0 +1,10 @@
+services:
+  forgedb:
+    build: .
+    image: forgedb:local
+    working_dir: /data
+    command: ["shell", "/data/app.db"]
+    volumes:
+      - ./data:/data
+    stdin_open: true
+    tty: true

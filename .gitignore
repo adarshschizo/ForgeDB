@@ -1,0 +1,10 @@
+*.db
+*.db-*
+*.wal
+*.log
+coverage.out
+bin/
+.idea/
+.vscode/
+data/
+project_plan.txt

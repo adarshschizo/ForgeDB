@@ -1,0 +1,10 @@
+.git
+.github
+bin
+coverage.out
+*.db
+*.db-*
+*.wal
+*.log
+data
+project_plan.txt
